@@ -1,0 +1,10 @@
+.courses{
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.course{
+    background-color: brown;
+    display: inline-block;
+    width: 30%;
+}
